@@ -20,15 +20,25 @@ Q4. WAP for finding the volume of the cylinder by taking radius and height as in
 ans- 
 
 #include <iostream>
+
 using namespace std;
+
 int main()
+
 {
+
     float r , h , v;
+    
     cout<<"Enter the radius of cylinder : ";
+   
     cin>>r;
+    
     cout<<"Enter the height of cylinder : ";
+    
     cin>>h;
+    
     v = (3.14*r*r*h);
+    
     cout<<"The volume of cylinder is : "<<v;
 
 }
