@@ -16,7 +16,9 @@ ans-![Screenshot 2024-05-28 142606](https://github.com/TANYAGUPTA06/Assignment-2
 
 
 Q4. WAP for finding the volume of the cylinder by taking radius and height as input.
+
 ans- 
+
 #include <iostream>
 using namespace std;
 int main()
@@ -34,7 +36,9 @@ int main()
 output- ![Screenshot 2024-05-28 144011](https://github.com/TANYAGUPTA06/Assignment-2-conditions-/assets/150226013/5e152c4d-1ee5-417d-ae75-b4845fdfd9d5)
 
 Q5. WAP to find the difference between ASCII of two characters ,take them as input .
+
 ans- 
+
 #include <iostream>
 using namespace std;
 int main(){
